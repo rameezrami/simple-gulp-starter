@@ -1,13 +1,26 @@
 /*this css will be minified and will be put to dist folder*/
-.tesfgdft{
-  color:red;
-}
-.testgdf{
-  color:red;
-}
-.testfdgdfdfsdf{
-  color:red;
-}
-.tescfgt{
-  color:red;
+.GEEKFORGEEKS {                                         
+    margin-left: 70px; 
+    font-weight: bold ; 
+    float: left; 
+    clear: left; 
+    width: 100px; 
+    text-align: left; 
+    margin-right: 10px; 
+    font-family:sans-serif,bold, Arial, Helvetica; 
+    font-size:14px; 
+} 
+   
+div {  
+    box-sizing: border-box; 
+    width: 100%; 
+    border: 100px solid black; 
+    float: left; 
+    align-content: center; 
+    align-items: center; 
+} 
+   
+form {                                         
+    margin: 0 auto; 
+    width: 600px; 
 }
