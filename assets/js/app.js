@@ -1,0 +1,25 @@
+/*this js will be uglified and will be put to dist folder*/
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hisdsddsfdsd');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
+console.log('hi');
