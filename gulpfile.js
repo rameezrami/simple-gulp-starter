@@ -48,6 +48,7 @@ gulp.task('watch-css', function() {
 gulp.task('sass', function () {
     gulp.src(filePath.sass.src) // path to your file
     .pipe(sass())
+    .pipe(minifyCss())
     .pipe(gulp.dest(filePath.sass.dest_dir));
 });
 gulp.task('watch-sass', function() {
