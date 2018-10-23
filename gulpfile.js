@@ -62,9 +62,9 @@ gulp.task('watch-sass', function() {
  
 // js uglify task
 gulp.task('js', function () {
-    gulp.src('./assets/js/*.js') // path to your files
+    gulp.src(filePath.js.src) // path to your files
     .pipe(uglify())
-    .pipe(gulp.dest('dist/js'));
+    .pipe(gulp.dest(filePath.js.dest_dir));
 });
 gulp.task('watch-js', function() {
   gulp.start('js');
